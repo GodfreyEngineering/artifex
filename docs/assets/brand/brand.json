@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "slug": "artifex",
+  "name": "Artifex",
+  "accent": "#B9EE83",
+  "palette": {
+    "accent": "#B9EE83",
+    "accent_on_light": "#719150",
+    "label_on_light": "#5c7742",
+    "background": "#0B0D10",
+    "surface": "#14191F",
+    "text": "#F1F3F5",
+    "muted": "#9CA6B1"
+  },
+  "rationale": "A two-part A/chisel silhouette: a forged apex, open counter and a decisive cross-cut. Mineral green on graphite gives the standalone identity its own character."
+}

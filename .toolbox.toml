@@ -1,0 +1,7 @@
+# Project maturity and publication metadata.
+stage = "alpha"
+tier = "production"
+intent = "public"
+
+[repo]
+topics = ["ai", "developer-tools", "agentic-coding", "developer-workflow"]
