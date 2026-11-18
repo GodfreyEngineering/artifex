@@ -1,0 +1,7 @@
+# Runtime versions for artifex — pinned per project (committed). Uncomment + set to match the stack.
+# Keeps this project's toolchain isolated from the global mise defaults.
+[tools]
+# node = "lts"
+# bun = "latest"
+# python = "3.14"
+# rust = "stable"
